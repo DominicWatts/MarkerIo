@@ -2,6 +2,7 @@
 /**
  * Copyright © 2020 All rights reserved.
  * See COPYING.txt for license details.
+ * phpcs:ignoreFile 
  */
 declare(strict_types=1);
 
